@@ -62,6 +62,8 @@ Please read [CONTRIBUTING.md](/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](/CODE_O
 * Be friendly, helpful, and patient.
 * You can contribute in any way.
 
+### Guide on Setting Up Virtual Environment
+* The [Setup Virtual Environment](create_Virtualenv.md) guide is a hybrid between a 'go-to' **cheat sheet** and a **tutorial**.
 ### Support
 
 If you like this project, please consider supporting it by giving it a ⭐️. It will help us to grow and improve this project and help others to find it.
