@@ -1,0 +1,30 @@
+What is a binary tree, and how does it differ from other types of trees?
+How do you represent a binary tree in memory?
+What is the difference between a binary search tree and a regular binary tree?
+How do you perform a depth-first traversal of a binary tree?
+What is a breadth-first traversal of a binary tree?
+How do you find the height of a binary tree?
+How do you find the depth of a node in a binary tree?
+How do you find the lowest common ancestor of two nodes in a binary tree?
+How do you insert a new node into a binary search tree?
+How do you delete a node from a binary search tree?
+How do you find the kth smallest element in a binary search tree?
+How do you find the largest element in a binary search tree?
+How do you check if a binary tree is balanced?
+How do you check if a binary tree is a valid binary search tree?
+How do you convert a binary tree into a doubly linked list?
+How do you convert a binary tree into an array?
+How do you serialize a binary tree into a string?
+How do you deserialize a string into a binary tree?
+How do you find the diameter of a binary tree?
+How do you find the maximum sum of a path in a binary tree?
+How do you find the sum of all nodes at a given depth in a binary tree?
+How do you find the sum of all leaves in a binary tree?
+How do you find the sum of all nodes greater than a given value in a binary search tree?
+How do you find the maximum difference between a node and its ancestor in a binary tree?
+How do you find the maximum sum of non-adjacent nodes in a binary tree?
+How do you check if a binary tree is a subtree of another binary tree?
+How do you find the level order traversal of a binary tree?
+How do you find the inorder traversal of a binary tree?
+How do you find the postorder traversal of a binary tree?
+How do you find the preorder traversal of a binary?
