@@ -6,8 +6,6 @@ The present guide is a hybrid between a 'go-to' **cheat sheet** and a **tutorial
 
 Its purpose is to create a **virtual environment** with Python using the '**venv**' module.
 
-&nbsp;
-
 ---
 
 Table of contents
